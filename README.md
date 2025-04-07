@@ -16,10 +16,10 @@ Hi there! I’m [Your Name], a [Your Role, e.g., Front-End Developer, Data Scien
 ## Skills & Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092D36?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
 ## Projects
 
 ### 1. [Project Name](GitHub Repo URL)
