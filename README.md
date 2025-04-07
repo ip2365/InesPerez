@@ -21,6 +21,27 @@ Here are the tools and technologies I am proficient in:
 - **Tools**: Git, Docker, VSCode, Figma, etc.
 - **Databases**: MySQL, MongoDB, PostgreSQL, etc.
 - **Other**: RESTful APIs, Agile, CI/CD, Testing
+## Skills & Technologies
+
+<div style="display: flex;">
+  <!-- Sidebar Section -->
+  <div style="width: 200px; padding: 10px; background-color: #f1f1f1; border-radius: 8px; margin-right: 20px;">
+    <h4>Skills</h4>
+    <div>
+      <span style="display: inline-block; background-color: #4CAF50; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">JavaScript</span>
+      <span style="display: inline-block; background-color: #FF9800; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">React</span>
+      <span style="display: inline-block; background-color: #2196F3; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">Node.js</span>
+      <span style="display: inline-block; background-color: #009688; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">Python</span>
+      <span style="display: inline-block; background-color: #FF5722; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">Django</span>
+    </div>
+  </div>
+
+  <!-- Main Content Section -->
+  <div style="flex-grow: 1;">
+    <h1>About Me</h1>
+    <p>Hi, I'm [Your Name], a passionate software developer with experience in various web technologies...</p>
+  </div>
+</div>
 
 ## Projects
 
