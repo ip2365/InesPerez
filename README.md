@@ -13,36 +13,13 @@ Hi there! I’m [Your Name], a [Your Role, e.g., Front-End Developer, Data Scien
 - **Twitter**: [Your Twitter Handle]
 
 ## Technologies & Skills
-
-Here are the tools and technologies I am proficient in:
-
-- **Languages**: JavaScript, Python, HTML, CSS, etc.
-- **Frameworks & Libraries**: React, Node.js, Django, Flask, etc.
-- **Tools**: Git, Docker, VSCode, Figma, etc.
-- **Databases**: MySQL, MongoDB, PostgreSQL, etc.
-- **Other**: RESTful APIs, Agile, CI/CD, Testing
 ## Skills & Technologies
 
-<div style="display: flex;">
-  <!-- Sidebar Section -->
-  <div style="width: 200px; padding: 10px; background-color: #f1f1f1; border-radius: 8px; margin-right: 20px;">
-    <h4>Skills</h4>
-    <div>
-      <span style="display: inline-block; background-color: #4CAF50; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">JavaScript</span>
-      <span style="display: inline-block; background-color: #FF9800; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">React</span>
-      <span style="display: inline-block; background-color: #2196F3; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">Node.js</span>
-      <span style="display: inline-block; background-color: #009688; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">Python</span>
-      <span style="display: inline-block; background-color: #FF5722; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px;">Django</span>
-    </div>
-  </div>
-
-  <!-- Main Content Section -->
-  <div style="flex-grow: 1;">
-    <h1>About Me</h1>
-    <p>Hi, I'm [Your Name], a passionate software developer with experience in various web technologies...</p>
-  </div>
-</div>
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-FF9900?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092D36?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 ## Projects
 
 ### 1. [Project Name](GitHub Repo URL)
